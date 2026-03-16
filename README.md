@@ -1,15 +1,11 @@
 <div align="center">
 
-```
-███╗   ██╗██╗██╗  ██╗██╗████████╗ █████╗
-████╗  ██║██║██║ ██╔╝██║╚══██╔══╝██╔══██╗
-██╔██╗ ██║██║█████╔╝ ██║   ██║   ███████║
-██║╚██╗██║██║██╔═██╗ ██║   ██║   ██╔══██║
-██║ ╚████║██║██║  ██╗██║   ██║   ██║  ██║
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+# 👋 Hi, I'm Nikita Limonov
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;C%2B%2B+%7C+Python+Engineer;Building+Bots+%26+Automation;Future+Senior+Software+Engineer" />
 
 </div>
+
 
 ---
 

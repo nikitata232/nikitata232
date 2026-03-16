@@ -34,9 +34,9 @@ class Nikita:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitata232&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitata232&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
 
 </div>
 

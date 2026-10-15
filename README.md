@@ -11,6 +11,8 @@
 
 ```python
 class Nikita:
+    name       = "Nikita"
+    age        = "19"
     role       = ["Backend Developer", "Fullstack Developer"]
     language   = "Python"
     focus      = "Building things that work"
